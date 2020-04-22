@@ -2,5 +2,6 @@
 
 Lines of code:
       32 guessinggame.sh
+
 Make file run: 
-Wed Apr 22 23:42:00 EEST 2020
+Thu Apr 23 00:02:07 EEST 2020
